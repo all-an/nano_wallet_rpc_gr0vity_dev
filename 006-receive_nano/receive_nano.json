@@ -1,0 +1,6 @@
+{
+    "action": "receive",
+    "wallet": "YOUR_WALLET_FROM_STEP_1",
+    "account": "YOUR_NANO_ADDRESS_FROM_STEP_2",
+    "block": "BLOCK_FROM_STEP_5"
+  }
